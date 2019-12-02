@@ -17,7 +17,7 @@ yarn add react-native-customer-review-bars
 ```
 
 ## Example
-
+|                                       |                                   |
 | :------------------------------------ | :-------------------------------: |
 | ![](images/normal.gif) | ![](images/percentage.gif) |
 
@@ -57,9 +57,9 @@ export default App;
 | Prop            |                          Default                          |   Type   | Description                                                                                 |
 | :-------------- | :-------------------------------------------------------: | :------: | :------------------------------------------------------------------------------------------ |
 | reviews         |                           `[]`                            | `array`  | All items available in the list (array of `string` or `{ type, value }`)                    |  |
-| showPercentage  |                          `false`                          |  `bool`  | display percentage of reviews                                                               |
-| showCount       |                          `false`                          |  `bool`  | display count of reviews                                                                    |
-| colors          | `["#4CAF50", "#2196F3", "#00bcd4", "#ff9800", "#f44336"]` | `Array`  | change color of bars                                                                        |  |
+| showPercentage  |                          `false`                          |  `bool`  | Display percentage of reviews                                                               |
+| showCount       |                          `false`                          |  `bool`  | Display count of reviews                                                                    |
+| colors          | `["#4CAF50", "#2196F3", "#00bcd4", "#ff9800", "#f44336"]` | `Array`  | Change color of bars                                                                        |  |
 | reviewTypeStyle |                           `{}`                            | `object` | [Style](https://facebook.github.io/react-native/docs/text.html#style) for the "type" label. |  |
 
 ## License
