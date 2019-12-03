@@ -64,6 +64,8 @@ export default App;
 | reviewTypeStyle |                           `{}`                            | `object` | [Style](https://facebook.github.io/react-native/docs/text.html#style) for the "type" label.                             |  |
 | rightTextStyle  |                           `{}`                            | `object` | [Style](https://facebook.github.io/react-native/docs/text.html#style) for the "percentage or value" label.              |  |
 | flatListProps   |                           `{}`                            | `object` | [FlatList](https://facebook.github.io/react-native/docs/flatlist#docsNav) for pass flatlist props inside the component. |  |
+| barStyle        |                           `{}`                            | `object` | [Style](https://facebook.github.io/react-native/docs/text.html#style) for the "empty barStyle" style.                   |  |
+| barFillStyle    |                           `{}`                            | `object` | [Style](https://facebook.github.io/react-native/docs/text.html#style) for the "filled bar" style.                       |  |
 
 ## License
 
