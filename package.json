@@ -1,6 +1,6 @@
 {
   "name": "react-native-customer-review-bars",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A customizables ListView that allows you to display customer review scale",
   "main": "lib/index.js",
   "scripts": {
